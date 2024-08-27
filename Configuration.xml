@@ -1,0 +1,9 @@
+<Configuration> 
+  <Add SourcePath="\\Server\share" OfficeClientEdition="32">
+    <Product ID="O365ProPlusRetail" > 
+      <Language ID="en-us" />        
+      <ExcludeApp ID="Publisher" />
+    </Product> 
+  </Add> 
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
